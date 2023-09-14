@@ -17,14 +17,9 @@
     "@mui/icons-material": "latest",
     "@mui/material": "latest",
     "dayjs": "^1.11.9",
-    "gsap": "^3.12.2",
     "next": "latest",
     "react": "latest",
-    "react-custom-roulette": "^1.4.1",
-    "react-dom": "^18.2.0",
-    "react-flippy": "^1.1.0",
-    "react-spinning-canvas-wheel": "^0.1.4",
-    "react-wheel-of-prizes": "^1.0.9"
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@types/node": "latest",
