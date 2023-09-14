@@ -2,8 +2,6 @@ import * as React from "react";
 import Box from "@mui/material/Box";
 import Container from "@mui/material/Container";
 import {useState} from "react";
-// @ts-ignore
-import WheelComponent, { WheelSegment } from "react-wheel-of-prizes";
 import {Grid} from "@mui/material";
 
 interface Artist {
